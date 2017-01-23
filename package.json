@@ -1,0 +1,36 @@
+{
+  "name": "hrsf53-mvp",
+  "version": "1.0.0",
+  "description": "Task management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiai8901/hrsf53-mvp.git"
+  },
+  "keywords": [
+    "mvp"
+  ],
+  "author": "Ai Shi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shiai8901/hrsf53-mvp/issues"
+  },
+  "homepage": "https://github.com/shiai8901/hrsf53-mvp#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.15.0",
+    "mongodb": "^2.2.21",
+    "mongoose": "^4.7.7",
+    "request": "^2.79.0",
+    "sequelize": "^3.29.0",
+    "underscore": "^1.8.3"
+  }
+}
